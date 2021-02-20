@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-NBAApiTest/Pods-NBAApiTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/PKHUD/PKHUD.framework
+${BUILT_PRODUCTS_DIR}/Pastel/Pastel.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/ScrollableDatepicker/ScrollableDatepicker.framework
+${BUILT_PRODUCTS_DIR}/Stellar/Stellar.framework
